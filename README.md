@@ -1,7 +1,7 @@
 # first
 my to do list
 
-public class test7 {
+public class test {
 	public static void main(String[] args){
 
 		// 定义一个整型数组，并赋初值
